@@ -6,8 +6,13 @@
 .cardbodycolor{
     background-color: rgb(245, 235, 235);
 }
+.cardcolor{
+    background-color: rgb(56, 159, 206) ;
+    
+}
 .img-container{
     position: relative;
+    
 }
 .close-btn{
     position: absolute;

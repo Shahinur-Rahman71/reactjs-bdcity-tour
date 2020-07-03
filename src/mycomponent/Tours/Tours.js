@@ -20,7 +20,8 @@ class Tours extends Component {
 
                 <div className="col-md-3 mb-3 float-left">
 
-                    <Card style={{ width: '100%' }} className="border-0">
+                    <Card style={{ width: '100%' }} className="border-0 cardcolor">
+
                         <div className="img-container">
 
                             <Card.Img variant="top" src={img} className="img-design"/>

@@ -5,7 +5,7 @@ const Home = () => {
     return (
         <div className="container mt-5">
             <Link to="/tour">
-                <Button variant="outline-info">Learn More 
+                <Button variant="outline-dark">Learn More 
                     <i className="fas fa-angle-double-right ml-1"></i>
                 </Button>
             </Link>           

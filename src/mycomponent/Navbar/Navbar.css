@@ -1,0 +1,19 @@
+.navmargin1{
+    /* margin-left: 60%; */
+    align-self: center;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    text-align: center;
+}
+.navmargin2{
+    /* margin-left: 60%; */
+    align-self: center;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    text-align: center;
+    transition: all 0.3s linear;
+}
+.logodesign{
+    height: 50px;
+    width: 50px;
+}
